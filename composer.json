@@ -1,0 +1,14 @@
+{
+    "name": "kingkernel/icegrid",
+    "description": "Iceberg css framework",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Daniel José dos Santos",
+            "email": "daniel.santos.ap@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
